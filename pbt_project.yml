@@ -1,0 +1,57 @@
+name: bryce.hyatt
+description: coherent
+version: 0.89.791
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: brycehyatt
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:23:58'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:23:58'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:23:58.199956Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '1843141334'
+  createdAt: '2024-10-24T20:23:58.199956Z'
+  type: plibMaven
+projectDependencies:
+  '251':
+    projectUID: 251
+    projectName: sydney.okeefe
+    repositoryPath: gitUri=http://gitserver:3000/dev_u225yIaj_team_392/dev_u225yIaj_project_251.git&subPath=
+    version: sydney.okeefe/9.28.209
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 20:23:56'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
